@@ -1,0 +1,3 @@
+venv 
+.env
+# this folder shud n ot be taken on commiting in github repository 
