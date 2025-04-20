@@ -2,3 +2,12 @@ python-dotenv
 pandas 
 numpy 
 scikit-learn
+pymongo
+certifi
+
+# -e .
+# Used in deploying the packages in a cloud 
+
+# it will refer to the stup.py file and it will execute the entire code and will 
+#setup the entire python project as a package
+
