@@ -4,6 +4,7 @@ numpy
 scikit-learn
 pymongo
 certifi
+pymongo[srv]
 
 # -e .
 # Used in deploying the packages in a cloud 
